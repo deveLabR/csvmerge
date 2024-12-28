@@ -36,7 +36,10 @@
 
 ---
 
-[📥 Завантажити CSV Merger](https://github.com/deveLabR/csvmerge/releases/download/1.0.0/CSVmerger.zip)
+### Завантажити CSV Merger
+<!-- BEGIN LATEST DOWNLOAD BUTTON -->
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/deveLabR/csvmerge/releases/download/1.0.0/CSVmerger.zip)
+<!-- END LATEST DOWNLOAD BUTTON -->
 
 ---
 ## 🎈 Використання
